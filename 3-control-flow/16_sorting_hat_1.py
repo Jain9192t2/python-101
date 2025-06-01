@@ -17,9 +17,7 @@ print('Q1) Do you like Dawn or Dusk?')
 print('  1) Dawn')
 print('  2) Dusk')
 
-answer = int(input('Enter answer (1-2): '))
-
-if answer == 1:
+answer = int(input('Enter answer (1-2): 
   gryffindor = gryffindor + 1
   ravenclaw = ravenclaw + 1
 elif answer == 2:
